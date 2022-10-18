@@ -1,0 +1,7 @@
+{
+  "date": "2022-10-17T11:04:09.079Z",
+  "preset": "node-server",
+  "commands": {
+    "preview": "node ./server/index.mjs"
+  }
+}

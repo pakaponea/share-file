@@ -1,0 +1,1 @@
+import{v as n}from"./server.mjs";const o=n.defineComponent({__name:"BaseCard",props:{heading:String},setup(r,{expose:t}){t();const e={props:r};return Object.defineProperty(e,"__isScriptSetup",{enumerable:!1,value:!0}),e}});export{o as _};

@@ -1,0 +1,1 @@
+import{v as r,u as a}from"./server.mjs";import"#internal/nitro";const n=r.defineComponent({__name:"blank",setup(s,{expose:t}){t(),a({title:"MaterialPro Free NuxtJs 3 Dashboard"});const e={};return Object.defineProperty(e,"__isScriptSetup",{enumerable:!1,value:!0}),e}});export{n as default};

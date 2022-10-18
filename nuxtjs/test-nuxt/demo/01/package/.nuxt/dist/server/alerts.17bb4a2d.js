@@ -1,0 +1,1 @@
+import{v as t}from"./server.mjs";import"#internal/nitro";const p={__name:"alerts",setup(_,{expose:r}){r();const e={alert:t.ref(!0)};return Object.defineProperty(e,"__isScriptSetup",{enumerable:!1,value:!0}),e}};export{p as default};
